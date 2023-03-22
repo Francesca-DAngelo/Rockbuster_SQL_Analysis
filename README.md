@@ -6,4 +6,4 @@ The goal of this project is to assist Rockbuster Stealth's business intelligence
 # Data
 The opensource data is provided by CareerFoundry and available [here](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
-Please find the Tableau interactive presentation [here](https://public.tableau.com/app/profile/francesca.d.angelo6034/viz/presentation_16744017683500/Finalpresentation?publish=yes
+Please find the Tableau interactive presentation [here](https://public.tableau.com/app/profile/francesca.d.angelo6034/viz/presentation_16744017683500/Finalpresentation?publish=yes)
