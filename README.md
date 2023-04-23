@@ -7,11 +7,11 @@ The opensource data is provided by CareerFoundry and available [here](http://www
 Please find the Tableau interactive presentation [here](https://public.tableau.com/app/profile/francesca.d.angelo6034/viz/RockbusterStealth_16804431791270/Finalpresentation).
 # Skills applied
 
-Relational Databases in SQL
-Entity Relationship Diagram (ERD) 
-Data Dictionary
-SQL syntax for ordering, limiting, and grouping data
-SQL syntax for joining multiple tables
-Advanced queries (subqueries and CTE)
++ Relational Databases in SQL
+* Entity Relationship Diagram (ERD) 
+- Data Dictionary
++ SQL syntax for ordering, limiting, and grouping data
+* SQL syntax for joining multiple tables
+- Advanced queries (subqueries and CTE)
 
 
