@@ -5,3 +5,13 @@ The goal of this project is to assist Rockbuster Stealth's business intelligence
 The opensource data is provided by CareerFoundry and available [here](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).
 
 Please find the Tableau interactive presentation [here](https://public.tableau.com/app/profile/francesca.d.angelo6034/viz/RockbusterStealth_16804431791270/Finalpresentation).
+# Skills applied
+
+Relational Databases in SQL
+Entity Relationship Diagram (ERD) 
+Data Dictionary
+SQL syntax for ordering, limiting, and grouping data
+SQL syntax for joining multiple tables
+Advanced queries (subqueries and CTE)
+
+
